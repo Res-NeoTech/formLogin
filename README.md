@@ -12,4 +12,4 @@ npm run build
 ```
 To build a production mode.
 
-[Demo](https://maksym.ch/formLogin)
+[Demo](https://maksym.ch/loginForm)
